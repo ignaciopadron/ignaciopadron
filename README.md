@@ -1,12 +1,12 @@
 
 <!-- Banner image -->
-![GitHub Banner](images/github_banner.gif)
+![GitHub Banner](images/247.gif)
 
 # Ignacio Padrón
 *System Administrator on a journey to become a Site Reliability Engineer (SRE)*
 
 ## Introduction
-<img align="right" src="images/image.png" width="150" alt="Ignacio Padrón Avatar" />
+<img align="right" src="images/maki.png" width="150" alt="Ignacio Padrón Avatar" />
 
 Hello there! I'm **Ignacio Padrón**, a System Administrator from Málaga, Spain. I'm currently interning at **Freepik** (yes, that awesome site for free vectors and photos!) where I'm sharpening my skills in systems and reliability. My goal is to become a full-fledged Site Reliability Engineer (SRE) 🚀 in the near future.
 
