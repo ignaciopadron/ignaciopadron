@@ -1,6 +1,6 @@
 
 <!-- Banner image -->
-![GitHub Banner](images/247.gif)
+![GitHub Banner](images/ventana.gif)
 
 # Ignacio Padrón
 *System Administrator on a journey to become a Site Reliability Engineer (SRE)*
