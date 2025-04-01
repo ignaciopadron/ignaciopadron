@@ -6,7 +6,8 @@
 *System Administrator on a journey to become a Site Reliability Engineer (SRE)*
 
 ## Introduction
-<img align="right" src="images/maki.png" width="150" alt="Ignacio Padrón Avatar" />
+<img align="right" src="images/Maki.png" width="150" alt="Ignacio Padrón Avatar" />
+
 
 Hello there! I'm **Ignacio Padrón**, a System Administrator from Málaga, Spain. I'm currently interning at **Freepik** (yes, that awesome site for free vectors and photos!) where I'm sharpening my skills in systems and reliability. My goal is to become a full-fledged Site Reliability Engineer (SRE) 🚀 in the near future.
 
@@ -26,7 +27,7 @@ I have a passion for automating tasks, managing Linux servers, and tinkering wit
 - 🖥️ **Proxmox** (Virtualization)
 - 📂 **Active Directory**
 
-*(I love using emojis for a clean look, but you can also use badges from [Shields.io](https://shields.io) for each skill if you prefer.)*
+
 
 ## 🏆 Achievements
 
@@ -43,7 +44,8 @@ I have a passion for automating tasks, managing Linux servers, and tinkering wit
 <!-- GitHub Readme Stats (https://github.com/anuraghazra/github-readme-stats) and Streak Stats (https://github.com/DenverCoder1/github-readme-streak-stats) -->
 
 [![Ignacio's GitHub stats](https://github-readme-stats.vercel.app/api?username=ignaciopadron&show_icons=true&theme=default&hide=issues&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=ignaciopadron&theme=default&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ignaciopadron&theme=default&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ignaciopadron&layout=compact&theme=default&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
