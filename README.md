@@ -37,7 +37,7 @@ I have a passion for automating tasks, managing Linux servers, and tinkering wit
 
     ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ignaciopadron&theme=gruvbox&no-bg=true&no-frame=true)
 
-    <sub>_(Trophy widget by [ryo-ma](https://github.com/ryo-ma/github-profile-trophy))_</sub>
+ <img align="left" src="images/jurasickpark_hacker.png" width="150" alt="Ignacio Padrón Avatar" />
 
 ## 📊 GitHub Stats
 
