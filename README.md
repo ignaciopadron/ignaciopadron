@@ -61,4 +61,5 @@ I have a passion for automating tasks, managing Linux servers, and tinkering wit
 
 I run on 🐧 Linux and ☕ coffee. Let's automate all the things!
 
-<!-- Make sure to put 'github_banner.gif' and 'image.png' in an 'images/' folder in your repo for the images to show up. Have fun! -->
+
+![GitHub Banner](images/sol_rosa.gif.gif)
