@@ -62,4 +62,4 @@ I have a passion for automating tasks, managing Linux servers, and tinkering wit
 I run on 🐧 Linux and ☕ coffee. Let's automate all the things!
 
 
-![GitHub Banner](images/sol_rosa.gif.gif)
+![GitHub Banner](images/sol_rosa.gif)
