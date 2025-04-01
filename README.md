@@ -1,8 +1,3 @@
-Genial, voy a preparar un README para tu perfil de GitHub en inglés, con estilo divertido y minimalista, que incluya tu banner, tu avatar tipo cómic, habilidades técnicas, estadísticas, trofeos y contacto.
-
-También te recomendaré las mejores herramientas y widgets para estadísticas y logros, inspirándome en el repositorio de templates que compartiste.
-
-Te aviso cuando lo tenga listo para que puedas copiarlo y subirlo directamente a tu repositorio `ignaciopadron`.
 
 <!-- Banner image -->
 ![GitHub Banner](images/github_banner.gif)
