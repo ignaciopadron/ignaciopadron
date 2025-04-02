@@ -60,6 +60,6 @@ I have a passion for automating tasks, managing Linux servers, and tinkering wit
 ## ⚡ Fun Fact
 
 I run on 🐧 Linux and ☕ coffee. Let's automate all the things!
-
+  <img src="https://komarev.com/ghpvc/?username=ignaciopadron&style=flat-square&color=blue" alt="Profile views" /> <br><br>
 
 ![GitHub Banner](images/sol_rosa.gif)
