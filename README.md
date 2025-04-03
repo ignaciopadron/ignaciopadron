@@ -32,16 +32,16 @@ I have a passion for automating tasks, managing Linux servers, and tinkering wit
 
 | Skill | |
 |-------|--|
-| 🐧 **Linux** | <img src="images/linux-original.svg" alt="Linux" width="50" height="30" style="vertical-align: middle;"/> |
-| 🐳 **Docker & Containers** | <img src="images/docker-original-wordmark.svg" alt="Docker" width="50" height="30" style="vertical-align: middle;"/> |
-| 🛠 **Ansible** (Automation) | <img src="images/ansible-plain.svg" alt="Ansible" width="50" height="30" style="vertical-align: middle;"/> |
-| 🏗️ **Terraform** (Infrastructure as Code) | <img src="images/terraform-original.svg" alt="Terraform" width="50" height="30" style="vertical-align: middle;"/> |
-| ☸️ **Kubernetes** (K8s) | <img src="images/kubernetesimage.svg" alt="Kubernetes" width="50" height="30" style="vertical-align: middle;"/> |
-| 🛡️ **WireGuard** (VPN) | <img src="images/wireguard-logo-.png" alt="WireGuard" width="50" height="30" style="vertical-align: middle;"/> |
-| 🕸️ **Nginx** (Web Server) | <img src="images/nginx-original.svg" alt="Nginx" width="50" height="30" style="vertical-align: middle;"/> |
-| 🪶 **Apache** (Web Server) | <img src="images/apache.svg" alt="Apache" width="50" height="30" style="vertical-align: middle;"/> |
-| 🖥️ **Proxmox** (Virtualization) | <img src="images/Proxmox.svg" alt="Proxmox" width="50" height="30" style="vertical-align: middle;"/> |
-| 📂 **Active Directory** | <img src="images/Active-directory.png" alt="Active Directory" width="50" height="30" style="vertical-align: middle;"/> |
+| 🐧 **Linux** | <img src="images/linux-original.svg" alt="Linux" width="50" height="50" style="vertical-align: middle;"/> |
+| 🐳 **Docker & Containers** | <img src="images/docker-original-wordmark.svg" alt="Docker" width="50" height="50" style="vertical-align: middle;"/> |
+| 🛠 **Ansible** (Automation) | <img src="images/ansible-plain.svg" alt="Ansible" width="50" height="50" style="vertical-align: middle;"/> |
+| 🏗️ **Terraform** (Infrastructure as Code) | <img src="images/terraform-original.svg" alt="Terraform" width="50" height="50" style="vertical-align: middle;"/> |
+| ☸️ **Kubernetes** (K8s) | <img src="images/kubernetesimage.svg" alt="Kubernetes" width="50" height="50" style="vertical-align: middle;"/> |
+| 🛡️ **WireGuard** (VPN) | <img src="images/wireguard-logo-.png" alt="WireGuard" width="50" height="50" style="vertical-align: middle;"/> |
+| 🕸️ **Nginx** (Web Server) | <img src="images/nginx-original.svg" alt="Nginx" width="50" height="50" style="vertical-align: middle;"/> |
+| 🪶 **Apache** (Web Server) | <img src="images/apache.svg" alt="Apache" width="50" height="50" style="vertical-align: middle;"/> |
+| 🖥️ **Proxmox** (Virtualization) | <img src="images/Proxmox.svg" alt="Proxmox" width="50" height="50" style="vertical-align: middle;"/> |
+| 📂 **Active Directory** | <img src="images/Active-directory.png" alt="Active Directory" width="50" height="50" style="vertical-align: middle;"/> |
 
 
 
