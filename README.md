@@ -30,18 +30,49 @@ I have a passion for automating tasks, managing Linux servers, and tinkering wit
 
 ## 🛠️ Technical Skills
 
-| Skill | |
-|-------|--|
-| 🐧 **Linux** | <img src="images/linux-original.svg" alt="Linux" width="50" height="50" style="vertical-align: middle;"/> |
-| 🐳 **Docker & Containers** | <img src="images/docker-original-wordmark.svg" alt="Docker" width="50" height="50" style="vertical-align: middle;"/> |
-| 🛠 **Ansible** (Automation) | <img src="images/ansible-plain.svg" alt="Ansible" width="50" height="50" style="vertical-align: middle;"/> |
-| 🏗️ **Terraform** (Infrastructure as Code) | <img src="images/terraform-original.svg" alt="Terraform" width="50" height="50" style="vertical-align: middle;"/> |
-| ☸️ **Kubernetes** (K8s) | <img src="images/kubernetesimage.svg" alt="Kubernetes" width="50" height="50" style="vertical-align: middle;"/> |
-| 🛡️ **WireGuard** (VPN) | <img src="images/wireguard-logo-.png" alt="WireGuard" width="50" height="50" style="vertical-align: middle;"/> |
-| 🕸️ **Nginx** (Web Server) | <img src="images/nginx-original.svg" alt="Nginx" width="50" height="50" style="vertical-align: middle;"/> |
-| 🪶 **Apache** (Web Server) | <img src="images/apache.svg" alt="Apache" width="50" height="50" style="vertical-align: middle;"/> |
-| 🖥️ **Proxmox** (Virtualization) | <img src="images/Proxmox.svg" alt="Proxmox" width="80" height="50" style="vertical-align: middle;"/> |
-| 📂 **Active Directory** | <img src="images/Active-directory.png" alt="Active Directory" width="80" height="50" style="vertical-align: middle;"/> |
+<table>
+  <tr>
+    <td>🐧 <strong>Linux</strong></td>
+    <td align="center"><div><img src="images/linux-original.svg" alt="Linux" width="50" height="50" style="vertical-align: middle;"/></div></td>
+  </tr>
+  <tr>
+    <td>🐳 <strong>Docker & Containers</strong></td>
+    <td align="center"><div><img src="images/docker-original-wordmark.svg" alt="Docker" width="50" height="50" style="vertical-align: middle;"/></div></td>
+  </tr>
+  <tr>
+    <td>🛠 <strong>Ansible</strong> (Automation)</td>
+    <td align="center"><div><img src="images/ansible-plain.svg" alt="Ansible" width="50" height="50" style="vertical-align: middle;"/></div></td>
+  </tr>
+  <tr>
+    <td>🏗️ <strong>Terraform</strong> (Infrastructure as Code)</td>
+    <td align="center"><div><img src="images/terraform-original.svg" alt="Terraform" width="50" height="50" style="vertical-align: middle;"/></div></td>
+  </tr>
+  <tr>
+    <td>☸️ <strong>Kubernetes</strong> (K8s)</td>
+    <td align="center"><div><img src="images/kubernetesimage.svg" alt="Kubernetes" width="50" height="50" style="vertical-align: middle;"/></div></td>
+  </tr>
+  <tr>
+    <td>🛡️ <strong>WireGuard</strong> (VPN)</td>
+    <td align="center"><div><img src="images/wireguard-logo-.png" alt="WireGuard" width="50" height="50" style="vertical-align: middle;"/></div></td>
+  </tr>
+  <tr>
+    <td>🕸️ <strong>Nginx</strong> (Web Server)</td>
+    <td align="center"><div><img src="images/nginx-original.svg" alt="Nginx" width="50" height="50" style="vertical-align: middle;"/></div></td>
+  </tr>
+  <tr>
+    <td>🪶 <strong>Apache</strong> (Web Server)</td>
+    <td align="center"><div><img src="images/apache.svg" alt="Apache" width="50" height="50" style="vertical-align: middle;"/></div></td>
+  </tr>
+  <tr>
+    <td>🖥️ <strong>Proxmox</strong> (Virtualization)</td>
+    <td align="center"><div><img src="images/Proxmox.svg" alt="Proxmox" width="80" height="50" style="vertical-align: middle;"/></div></td>
+  </tr>
+  <tr>
+    <td>📂 <strong>Active Directory</strong></td>
+    <td align="center"><div><img src="images/Active-directory.png" alt="Active Directory" width="80" height="50" style="vertical-align: middle;"/></div></td>
+  </tr>
+</table>
+
 
 
 
