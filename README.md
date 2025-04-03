@@ -30,17 +30,16 @@ I have a passion for automating tasks, managing Linux servers, and tinkering wit
 
 ## 🛠️ Technical Skills
 
-- 🐧 **Linux**
-- 🐚 **Bash scripting**
-- 🐳 **Docker & Containers**
-- 🛠 **Ansible** (Automation)
-- 🏗️ **Terraform** (Infrastructure as Code)
-- ☸️ **Kubernetes** (K8s)
-- 🛡️ **WireGuard** (VPN)
-- 🕸️ **Nginx** (Web Server)
-- 🪶 **Apache** (Web Server)
-- 🖥️ **Proxmox** (Virtualization)
-- 📂 **Active Directory**
+- 🐧 **Linux**                                <img src="images/linux-original.svg.png" alt="Linux" width="30"/>
+- 🐳 **Docker & Containers**                  <img src="images/docker-original-wordmark.svg.png" alt="Docker" width="30"/>
+- 🛠 **Ansible** (Automation)                 <img src="images/ansible-plain.svg" alt="Ansible" width="30"/>   
+- 🏗️ **Terraform** (Infrastructure as Code)   <img src="images/terraform-original.svg" alt="Terraform" width="30"/>
+- ☸️ **Kubernetes** (K8s)                     <img src="images/kubernetesimage.svg" alt="Kubernetes" width="30"/>
+- 🛡️ **WireGuard** (VPN)                      <img src="images/wireguard-logo-.png.png" alt="WireGuard" width="30"/>
+- 🕸️ **Nginx** (Web Server)                   <img src="images/nginx-original.svg" alt="Nginx" width="30"/>
+- 🪶 **Apache** (Web Server)                  <img src="images/apache.svg" alt="Apache" width="30"/>
+- 🖥️ **Proxmox** (Virtualization)             <img src="images/Proxmox.svg" alt="Proxmox" width="30"/>
+- 📂 **Active Directory**                     <img src="images/Active-directory.png" alt="Active Directory" width="30"/>
 
 
 
