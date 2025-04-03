@@ -40,8 +40,8 @@ I have a passion for automating tasks, managing Linux servers, and tinkering wit
 | 🛡️ **WireGuard** (VPN) | <img src="images/wireguard-logo-.png" alt="WireGuard" width="50" height="50" style="vertical-align: middle;"/> |
 | 🕸️ **Nginx** (Web Server) | <img src="images/nginx-original.svg" alt="Nginx" width="50" height="50" style="vertical-align: middle;"/> |
 | 🪶 **Apache** (Web Server) | <img src="images/apache.svg" alt="Apache" width="50" height="50" style="vertical-align: middle;"/> |
-| 🖥️ **Proxmox** (Virtualization) | <img src="images/Proxmox.svg" alt="Proxmox" width="50" height="50" style="vertical-align: middle;"/> |
-| 📂 **Active Directory** | <img src="images/Active-directory.png" alt="Active Directory" width="50" height="50" style="vertical-align: middle;"/> |
+| 🖥️ **Proxmox** (Virtualization) | <img src="images/Proxmox.svg" alt="Proxmox" width="80" height="50" style="vertical-align: middle;"/> |
+| 📂 **Active Directory** | <img src="images/Active-directory.png" alt="Active Directory" width="80" height="50" style="vertical-align: middle;"/> |
 
 
 
