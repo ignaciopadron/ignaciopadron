@@ -18,13 +18,13 @@ I have a passion for automating tasks, managing Linux servers, and tinkering wit
 ## 💻 My Languages
 
 <p align="left">
-  <img src="images/bashimage.svg" alt="Bash" width="50" height="50" style="object-fit: contain;"/>
-  <img src="images/YAMLimage.svg" alt="YAML" width="50" height="50" style="object-fit: contain;"/>
-  <img src="images/HTML5_logo.png" alt="HTML" width="50" height="50" style="object-fit: contain;"/>
-  <img src="images/CSS3_logo.svg" alt="CSS" width="50" height="50" style="object-fit: contain;"/>
-  <img src="images/python-original-wordmark.svg" alt="Python" width="50"height="50" style="object-fit: contain;"/>
-  <img src="images/phpimage.svg" alt="PHP" width="50" height="50" style="object-fit: contain;"/>
-  <img src="images/golangimages.png" alt="Go" width="50" height="50" style="object-fit: contain;"/>
+  <img src="images/bashimage.svg" alt="Bash" width="65" height="50" style="object-fit: contain;"/>
+  <img src="images/YAMLimage.svg" alt="YAML" width="65" height="50" style="object-fit: contain;"/>
+  <img src="images/HTML5_logo.png" alt="HTML" width="65" height="50" style="object-fit: contain;"/>
+  <img src="images/CSS3_logo.svg" alt="CSS" width="65" height="50" style="object-fit: contain;"/>
+  <img src="images/python-original-wordmark.svg" alt="Python" width="65"height="50" style="object-fit: contain;"/>
+  <img src="images/phpimage.svg" alt="PHP" width="65" height="50" style="object-fit: contain;"/>
+  <img src="images/golangimages.png" alt="Go" width="65" height="50" style="object-fit: contain;"/>
 </p>
 
 

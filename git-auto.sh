@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# -z: Verifica si la variable está vacía Es una prueba de longitud cero: -z significa "string está vacío".
+# Entonces, -z "$1" da true si $1 es "" (vacío).
+# [ -z "$1" ] evalúa: "¿Está vacío $1?"
+# Si la condición del test da true, entonces ejecuta el bloque que sigue.
 
 #Verifica si se pasó un mensaje de commit
 if [ -z "$1" ]; then
@@ -17,7 +21,7 @@ git commit -m "$1"
 echo "🚀 Pusheando a origin/main..."
 git push origin main
 
-# mensaje de exito si todo sale bien
+
 if [ $? -ne 0 ]; then
     echo "⚠️  Algo salió mal furro!"
     exit 1
