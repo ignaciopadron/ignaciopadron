@@ -21,23 +21,24 @@ La solución fue crear el repositorio `ansible-infra`, cuya única responsabilid
 ### Arquitectura de Alto Nivel
 
 La arquitectura se basa en la modularidad y la comunicación a través de una red segura.
-+------------------+ +-------------------------+ +---------------------------+
-| Repositorio de |----->| GitHub Actions (CI/CD) |----->| |
-| Aplicación (Web) | | (Solo copia el código) | | /srv/portfolio/website |
-+------------------+ +-------------------------+ | |
-| SERVIDOR VPS |
-+------------------+ +-------------------------+ | |
-| ansible-infra |----->| Ansible (Local) |----->| Docker & Docker Compose |
-| (Este proyecto) | | (Provisiona y configura)| | (Gestionado por Ansible)|
-+------------------+ +-------------------------+ +---------------------------+
-|
-| [proxy_network] (Red Docker)
-| ^
-| |
-+--------------------------+ <--- Tráfico ----> +-------------------------+
-| Nginx Proxy Manager | | Contenedor App (Portfolio)|
-| (Gestiona SSL y dominios)| | Contenedor App (Radar) |
-+--------------------------+ +-------------------------+
+```
++------------------+      +-------------------------+      +---------------------------+
+| Repositorio de   |----->| GitHub Actions (CI/CD)  |----->|                           |
+| Aplicación (Web) |      | (Solo copia el código)  |      | /srv/portfolio/website    |
++------------------+      +-------------------------+      |                           |
+                                                             |       SERVIDOR VPS        |
++------------------+      +-------------------------+      |                           |
+| ansible-infra    |----->|   Ansible (Local)       |----->|  Docker & Docker Compose  |
+| (Este proyecto)  |      | (Provisiona y configura)|      |   (Gestionado por Ansible)|
++------------------+      +-------------------------+      +---------------------------+
+                                                             |
+                                                             |  [proxy_network] (Red Docker)
+                                                             |      ^
+                                                             |      |
+        +--------------------------+  <--- Tráfico ---->  +-------------------------+
+        | Nginx Proxy Manager      |                      | Contenedor App (Portfolio)|
+        | (Gestiona SSL y dominios)|                      | Contenedor App (Radar)    |
+        +--------------------------+                      +-------------------------+
 
 
 ### La Estrategia con Ansible
@@ -45,17 +46,20 @@ La arquitectura se basa en la modularidad y la comunicación a través de una re
 El corazón del proyecto es cómo está estructurado Ansible. En lugar de un único `playbook.yml` gigante, he optado por una estructura modular y orquestada.
 
 **1. Estructura de Directorios:**
+```
 /
-├── main.yml # Playbook principal que llama a los demás
-├── playbooks/ # Playbooks con responsabilidades únicas
-│ ├── 01_setup_server.yml # Securización base (UFW, Fail2Ban)
-│ ├── 02_setup_docker.yml # Instalación de Docker y Docker Compose
-│ ├── 03_setup_network.yml # Creación de la red Docker compartida
-│ └── 04_deploy_services.yml # Despliegue de servicios
+├── main.yml                 # Playbook principal que llama a los demás
+├── playbooks/               # Playbooks con responsabilidades únicas
+│   ├── 01_setup_server.yml  # Securización base (UFW, Fail2Ban)
+│   ├── 02_setup_docker.yml  # Instalación de Docker y Docker Compose
+│   ├── 03_setup_network.yml # Creación de la red Docker compartida
+│   └── 04_deploy_services.yml # Despliegue de servicios
 │
-├── templates/ # Plantillas Jinja2 para docker-compose.yml
+├── templates/               # Plantillas Jinja2 para docker-compose.yml
+│   ├── ...
+│
 └── vars/
-└── secrets.yml # ¡Encriptado! Contiene IPs, usuarios, etc.
+    └── secrets.yml          # ¡Encriptado! Contiene IPs, usuarios, etc.
 
 **2. Orquestación con `main.yml`:**
 
