@@ -39,7 +39,7 @@ La arquitectura se basa en la modularidad y la comunicación a través de una re
         | Nginx Proxy Manager      |                      | Contenedor App (Portfolio)|
         | (Gestiona SSL y dominios)|                      | Contenedor App (Radar)    |
         +--------------------------+                      +-------------------------+
-
+```
 
 ### La Estrategia con Ansible
 
@@ -60,6 +60,7 @@ El corazón del proyecto es cómo está estructurado Ansible. En lugar de un ún
 │
 └── vars/
     └── secrets.yml          # ¡Encriptado! Contiene IPs, usuarios, etc.
+```
 
 **2. Orquestación con `main.yml`:**
 
