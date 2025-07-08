@@ -1,6 +1,6 @@
 # Project Deep Dive: Fully Automated VPS Infrastructure with Ansible
 
-![Ansible & Docker Infrastructure](https://img.shields.io/badge/Project-Ansible%20%26%20Docker%20Infrastructure-blue?style=for-the-badge&logo=ansible)
+![Ansible & Docker IaC](https://img.shields.io/badge/IaC%20Orchestration-Ansible%20%7C%20Docker%20%7C%20Jinja2-success?style=for-the-badge&logo=docker)
 
 Hola de nuevo. Si has llegado hasta aquí es porque quieres saber más sobre cómo he construido la infraestructura que soporta mis proyectos personales. ¡Vamos al lío!
 
