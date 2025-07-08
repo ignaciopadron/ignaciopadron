@@ -73,8 +73,16 @@ I have a passion for automating tasks, managing Linux servers, and tinkering wit
   </tr>
 </table>
 
+## 🚀 Featured Projects
 
+Aquí tienes algunos de los proyectos en los que he trabajado y que demuestran mis habilidades en la práctica.
 
+### Infrastructure as Code: Fully Automated VPS with Ansible
+- **Descripción:** Un proyecto completo de Infraestructura como Código (IaC) que automatiza el aprovisionamiento y la configuración de un servidor VPS desde cero. El sistema utiliza **Ansible** para la automatización, **Docker** para la contenedorización de servicios y **Nginx Proxy Manager** como proxy inverso.
+- **Principios Clave:** El proyecto se centra en el desacoplamiento total entre la infraestructura y las aplicaciones, la idempotencia y la gestión segura de secretos con **Ansible Vault**.
+- **Tecnologías:** `Ansible`, `Docker`, `Docker Compose`, `Jinja2`, `YAML`, `CI/CD Philosophy`.
+
+➡️ **[Lee el artículo técnico completo y el desglose de la arquitectura aquí](./ansible-infra-writeup.md)**
 
 
 ## 🏆 Achievements
