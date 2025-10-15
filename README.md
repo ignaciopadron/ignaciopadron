@@ -10,7 +10,7 @@
 <img align="right" src="images/Maki.png" width="150" alt="Ignacio Padrón Avatar" />
 
 
-Hello there! I'm **Ignacio Padrón**, a System Administrator from Málaga, Spain. I'm currently interning at **Freepik** (yes, that awesome site for free vectors and photos!) where I'm sharpening my skills in systems and reliability. My goal is to become a full-fledged Site Reliability Engineer (SRE) 🚀 in the near future.
+Hello there! I'm **Ignacio Padrón**, a System Administrator from Málaga, Spain. My goal is to become a full-fledged Site Reliability Engineer (SRE) 🚀 in the near future.
 
 I have a passion for automating tasks, managing Linux servers, and tinkering with DevOps tools. When I'm not in the server room, you'll probably find me exploring new tech, reading about space, or enjoying a good cup of coffee. ☕
 
